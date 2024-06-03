@@ -1,2 +1,17 @@
-# InCarta-Scripts
-Example scripts for analysis of InCarta Data
+# InCarta Scripts
+InCarta is high content analysis software that is the go to package in the facility for analysing INCA images. 
+
+Whilst not as customisable as Developer, it provides a user friendly interface and is particuarly powerful at assessing a large range of morphological features.
+
+If you would like to copy the scripts only - these are available in the Raw Code folder
+
+For bioinformatics support, contact Ryan Wallis at: phenotypic-screening@qmul.ac.uk
+
+### InCarta General Use
+These guides provide an overview for generating data analysis using both the summary and single target csv files that InCarta outputs. 
+
+### Multimetric Morpholical Analysis
+Guides are also provided for performing multimetric morphological analysis including the generation of heatmaps.
+
+A step by step guide to "senescence-associated morphological phenotypes" is also available.
+
