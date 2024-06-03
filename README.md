@@ -3,7 +3,7 @@ InCarta is high content analysis software that is the go to package in the facil
 
 Whilst not as customisable as Developer, it provides a user friendly interface and is particuarly powerful at assessing a large range of morphological features.
 
-Guides for following this code (along with the raw data) are available on the facility Teams Hub in the "04 - Bioinformatics Script Repository" folder. 
+**Guides for following this code (along with the raw data) are available on the facility Teams Hub in the "04 - Bioinformatics Script Repository" folder.**
 
 For bioinformatics support, contact Ryan Wallis at: phenotypic-screening@qmul.ac.uk
 
