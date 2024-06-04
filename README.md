@@ -11,7 +11,7 @@ Guides are also provided for performing multimetric morphological analysis inclu
 
 A step by step guide to "senescence-associated morphological phenotypes" is also available.
 
-**Guides for following this code (along with the raw data) are available on the facility Teams Hub in the "04 - Bioinformatics Script Repository" folder.**
+**Guides for following this code (along with the raw data) are available on the facility Teams Hub in the "04 - Bioinformatics Script Repository" folder or can be downloaded from the "Walkthrough Guides" folder and opened in your web browser.**
 
 For bioinformatics support, contact Ryan Wallis at: phenotypic-screening@qmul.ac.uk
 
